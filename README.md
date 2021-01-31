@@ -1,5 +1,6 @@
 # Welcome to My Profile! 
-Well actually there is nothing much to talk about but i am a student that does some projects.
+I am a student. I live in Turkey and guess what, i have coding skills!
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Here is my social media accounts
 
