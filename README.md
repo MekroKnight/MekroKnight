@@ -5,4 +5,4 @@ I am a student. I live in Turkey and guess what, i have some coding skills!</br>
 
 ## Here is my social media accounts:
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mekroknight12?label=Follow)]
+![Twitter Follow](https://img.shields.io/twitter/follow/mekroknight12?label=Follow)
